@@ -8,7 +8,7 @@ I'm a college who is passionate about coding, computers, and machine learning. S
 - Software Engineering
 
 ## 💬 Ask me about ...
-- Anything! I love to talk to and dicuss with new people. It's my favorite way to learn.
+- Anything! I love to talk to and dicuss topics with people. It's my favorite way to learn.
 
 ## 📫 How to reach me: ...
 - Email: nhamtd@mail.uc.edu
