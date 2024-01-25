@@ -1,6 +1,6 @@
 # Hi, I'm Toan Nham 👋
 
-I'm a college who is passionate about coding, computers, and machine learning. Some technologies I enjoy working with include [techs you like]. 
+I'm a college who is passionate about coding, computers, and machine learning. Some languanges I enjoy working with include Python and C++. 
 
 ## 🌱 I’m currently learning ...
 - Technical Writing
